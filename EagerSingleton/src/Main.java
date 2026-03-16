@@ -7,9 +7,9 @@ public class Main {
         ConfigurareSistem config2 = ConfigurareSistem.getInstanta();
 
         if (config1 == config2) {
-            System.out.println("Succes: config1 și config2 sunt EXACT aceeași instanță.");
+            System.out.println("Succes: config1 si config2 sunt EXACT aceeasi instanaa.");
         } else {
-            System.out.println("Eroare: Sunt obiecte diferite (ceea ce nu ar trebui să se întâmple la Singleton).");
+            System.out.println("Eroare: Sunt obiecte diferite.");
         }
     }
 }
