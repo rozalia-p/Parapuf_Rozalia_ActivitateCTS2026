@@ -5,6 +5,7 @@
       <module fileurl="file://$PROJECT_DIR$/Builder/Builder.iml" filepath="$PROJECT_DIR$/Builder/Builder.iml" />
       <module fileurl="file://$PROJECT_DIR$/EagerSingleton/EagerSingleton.iml" filepath="$PROJECT_DIR$/EagerSingleton/EagerSingleton.iml" />
       <module fileurl="file://$PROJECT_DIR$/Parapuf_Rozalia_ActivitateCTS2026.iml" filepath="$PROJECT_DIR$/Parapuf_Rozalia_ActivitateCTS2026.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SimpleFactory/SimpleFactory.iml" filepath="$PROJECT_DIR$/SimpleFactory/SimpleFactory.iml" />
     </modules>
   </component>
 </project>
